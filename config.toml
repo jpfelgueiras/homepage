@@ -16,19 +16,19 @@ theme = "template-theme-hermit"
     textColor = "" # Empty for default color
 
 [params.cta] # Call To Action 
-    show = false
+    show = true
     cta = "Contact"
     link = "contact" # Relative URL
 
 [params.separator] # Separators between sections on the home page
-    show = false
+    show = true
 
 [params.fa] # Font Awesome options
     version = "5.7.2"
     integrity = "sha384-0pzryjIRos8mFBWMzSSZApWtPl/5++eIfzYmTgBBmXYdhvxPc+XcFEk+zJwDgWbP"
 
 [params.form] # Contact form
-    netlify = false
+    netlify = true
     action = ""
     method = "POST"
     inputNameName = "name"
