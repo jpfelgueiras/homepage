@@ -50,12 +50,12 @@ theme = "template-theme-hermit"
 
 [params.contact] # Contact info
     email = "jpfelgueiras@gmail.com"
-    phone = ""
+    phone = "00351961455971"
     skype = ""
     address = ""
 
 [params.social]
-    twitter   = "https://twitter.com/"
+    twitter   = "https://twitter.com/jpfelgueiras"
     facebook  = ""
     github    = ""
     instagram = ""
