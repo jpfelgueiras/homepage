@@ -8,7 +8,7 @@ paginate = 3
 theme = "template-theme-hermit"
 
 [params]
-    description = "Business description."
+    description = "Pedro Felgueiras site."
     favicon = ""
     logo = ""
 
