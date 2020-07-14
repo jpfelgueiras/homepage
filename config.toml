@@ -1,6 +1,6 @@
 baseurl = "/"
-title = "Business Title"
-author = "Business Author Name"
+title = "Pedro Felgueiras Site"
+author = "Pedro Felgueiras"
 defaultContentLanguage = "en"
 language = "en-US"
 paginate = 3
@@ -49,7 +49,7 @@ theme = "template-theme-hermit"
     dateFormat = "Monday, Jan, 2006"
 
 [params.contact] # Contact info
-    email = ""
+    email = "jpfelgueiras@gmail.com"
     phone = ""
     skype = ""
     address = ""
